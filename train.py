@@ -5,7 +5,7 @@ import cv2
 import os
 import numpy as np
 
-dataPath= "D:\Escuelas\Campus de Robotica\ia\Sin-con-barbijo\Dataset_faces"
+dataPath= "C:\Users\Usuario\Desktop\santinocorti\Dataset_faces"
 dir_list = os.listdir(dataPath)
 print("Lista de archivos: ",dir_list)
 
